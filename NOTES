@@ -1,0 +1,3 @@
+Build with:
+
+platformio run -e LPC1768
